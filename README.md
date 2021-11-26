@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/simonhung"><img src="https://github.com/yihsuanhung/yihsuanhung/master/devcard.svg" width="400" alt="Simon's Dev Card"/></a>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/yihsuanhung/yihsuanhung/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/simonhung"><img src="https://github.com/yihsuanhung/yihsuanhung/blob/main/devcard.svg" width="400" alt="Simon's Dev Card"/></a>
 
 
 <!--
