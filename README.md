@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi, 
+
+My name is Yi-Hsuan, and I am a software developer from Taiwan.
+
+
+
 
 <a href="https://app.daily.dev/simonhung"><img src="https://github.com/yihsuanhung/yihsuanhung/blob/main/devcard.svg" width="400" alt="Simon's Dev Card"/></a>
 
