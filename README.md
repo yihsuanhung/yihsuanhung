@@ -2,7 +2,7 @@
 ![Frame 1bg1](https://github.com/yihsuanhung/yihsuanhung/assets/58166555/898a6bf6-621e-4b3c-a89d-10d51dd13065)
 > Drinking coffee, coding, and overcoming boredom...
 
-My name is **Hung Yi-Hsuan**, you can call me **Simon** , and I am a software developer from Taiwan.
+My name is **Hung Yi-Hsuan**, you can call me **Simon**, and I am a software developer from Taiwan.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yihsuanhung/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yihsuan.simon@gmail.com)
