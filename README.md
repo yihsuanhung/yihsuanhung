@@ -21,6 +21,8 @@ My name is **Hung Yi-Hsuan**, you can call me **Simon** , and I am a software de
 
 
 ## My dev card
+This card shows my interest and articles I read on [daily.dev](https://daily.dev/).
+
 <a href="https://app.daily.dev/simonhung"><img src="https://github.com/yihsuanhung/yihsuanhung/blob/main/devcard.svg" width="400" alt="Simon's Dev Card"/></a>
 
 
