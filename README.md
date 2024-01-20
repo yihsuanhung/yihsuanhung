@@ -1,6 +1,6 @@
 
 ![Frame 1bg1](https://github.com/yihsuanhung/yihsuanhung/assets/58166555/898a6bf6-621e-4b3c-a89d-10d51dd13065)
-> Drinking coffee, coding, and overcoming boredom...
+> Drinking coffee, coding, and overcoming boredom.
 
 My name is **Hung Yi-Hsuan**, you can call me **Simon**, and I am a software developer from Taiwan.
 
