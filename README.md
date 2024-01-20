@@ -14,7 +14,7 @@ My name is **Hung Yi-Hsuan**, you can call me **Simon**, and I am a software dev
 - 📚 I'm currently learning distributed system and web assembly.
 - 📝 I share knowledge through my [blog](https://simonhung.notion.site/Spaceman-821091ff754d4b28bfded7bbdfcfb596).
 - 💡 I share algorithms on [LeetCode](https://leetcode.com/yihsuanhung/).
-- 🩵 My favorite langurage is Go.
+- 💜 I listen to podcasts more than music.
 
 ## My tech stack
 ![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,go,python,mongodb,docker,redis)
