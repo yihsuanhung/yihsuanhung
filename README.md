@@ -17,8 +17,11 @@ My name is **Hung Yi-Hsuan**, you can call me **Simon**, and I am a software dev
 - 💜 I listen to podcasts more than music.
 
 ## My tech stack
-![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,go,python,mongodb,docker,redis)
+![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,go,python,mongodb,mysql,docker,redis)
 
+- Building web apps? React + TypeScript
+- How about the server? Go
+- Leetcode? Python
 
 ## My dev card
 This card shows my interest and articles I read on [daily.dev](https://daily.dev/).
