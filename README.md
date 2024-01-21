@@ -8,6 +8,7 @@ My name is **Hung Yi-Hsuan**, you can call me **Simon**, and I am a software dev
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yihsuan.simon@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/yihsuanhung/)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://simonhung.notion.site/Spaceman-821091ff754d4b28bfded7bbdfcfb596)
+[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/yihsuan.hung)
 
 
 - 👨🏻‍💻 I build web apps.
