@@ -31,7 +31,7 @@ This card shows my interest and articles I read on [daily.dev](https://daily.dev
 
 ## LeetCode
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/yihsuanhung)
+![Leetcode Stats](https://leetcard.jacoblin.cool/yihsuanhung?ext=heatmap)
 
 
 <!--
