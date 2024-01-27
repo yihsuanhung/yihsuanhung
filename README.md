@@ -7,6 +7,7 @@ My name is **Hung Yi-Hsuan**, you can call me **Simon**, and I am a software dev
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yihsuanhung/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yihsuan.simon@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/yihsuanhung/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://yihsuanhung-dev.medium.com/)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://simonhung.notion.site/Spaceman-821091ff754d4b28bfded7bbdfcfb596)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/yihsuan.hung)
 
@@ -23,6 +24,12 @@ My name is **Hung Yi-Hsuan**, you can call me **Simon**, and I am a software dev
 - Building web apps? React + TypeScript
 - How about the server? Go
 - Leetcode? Python
+
+## My Blog
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://yihsuanhung-dev.medium.com/)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://simonhung.notion.site/Spaceman-821091ff754d4b28bfded7bbdfcfb596)
+
+Visit my blog at [Medium](https://yihsuanhung-dev.medium.com/)📰, or my learning notes at [Notion](https://simonhung.notion.site/Spaceman-821091ff754d4b28bfded7bbdfcfb596)📝.
 
 ## My dev card
 This card shows my interest and articles I read on [daily.dev](https://daily.dev/).
