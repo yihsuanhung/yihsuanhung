@@ -33,7 +33,7 @@ My name is **Hung Yi-Hsuan**, you can call me **Simon**, and I am a software dev
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://yihsuanhung-dev.medium.com/)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://simonhung.notion.site/Spaceman-821091ff754d4b28bfded7bbdfcfb596)
 
-Read my blog at [Medium](https://yihsuanhung-dev.medium.com/), or my learning notes at [Notion](https://simonhung.notion.site/Spaceman-821091ff754d4b28bfded7bbdfcfb596)
+Read my blog at [Medium](https://yihsuanhung-dev.medium.com/), or my learning notes at [Notion](https://simonhung.notion.site/Spaceman-821091ff754d4b28bfded7bbdfcfb596).
 
 ## My dev card 👀
 This card shows my interest and articles I read on [daily.dev](https://daily.dev/).
