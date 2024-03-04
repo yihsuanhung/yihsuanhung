@@ -40,9 +40,11 @@ This card shows my interest and articles I read on [daily.dev](https://daily.dev
 
 <a href="https://app.daily.dev/simonhung"><img src="https://github.com/yihsuanhung/yihsuanhung/blob/main/devcard.svg" width="400" alt="Simon's Dev Card"/></a>
 
+<!--
 ## LeetCode 👨🏻‍💻
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/yihsuanhung?ext=heatmap)](https://leetcode.com/yihsuanhung/)
+-->
 
 
 <!--
