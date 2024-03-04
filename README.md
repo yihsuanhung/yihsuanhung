@@ -24,9 +24,12 @@ My name is **Hung Yi-Hsuan**, you can call me **Simon**, and I am a software dev
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,go,python,mongodb,mysql,docker,redis,elasticsearch)
 
+<!--
 - Building web apps? React + TypeScript
 - How about the server? Go
 - Leetcode? Python
+-->
+
 
 ## My Blog 📖
 
