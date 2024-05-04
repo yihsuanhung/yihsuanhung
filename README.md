@@ -42,8 +42,11 @@ Read my blog at [Medium](https://yihsuanhung-dev.medium.com/), or my learning no
 This card shows my interest and articles I read on [daily.dev](https://daily.dev/).
 
 <a href="https://app.daily.dev/simonhung"><img src="./devcard.png" width="356" alt="Simon's Dev Card"/></a>
-<a href="https://app.daily.dev/simonhung"><img src="https://github.com/yihsuanhung/yihsuanhung/blob/main/devcard.svg" width="400" alt="Simon's Dev Card"/></a>
 
+<!--
+Legacy DevCard
+<a href="https://app.daily.dev/simonhung"><img src="https://github.com/yihsuanhung/yihsuanhung/blob/main/devcard.svg" width="400" alt="Simon's Dev Card"/></a>
+-->
 <!--
 ## LeetCode 👨🏻‍💻
 
