@@ -13,7 +13,7 @@ My name is **Hung Yi-Hsuan**, you can call me **Simon**, and I am a software dev
 
 
 - 👨🏻‍💻 I build web apps.
-- 📚 I'm currently learning distributed system and web assembly.
+- 📚 I'm currently learning distributed system.
 - 📝 I share knowledge through my [blog](https://simonhung.notion.site/Spaceman-821091ff754d4b28bfded7bbdfcfb596).
 - 💡 I share algorithms on [LeetCode](https://leetcode.com/yihsuanhung/).
 - 💜 I listen to podcasts more than music.
